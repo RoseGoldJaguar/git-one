@@ -4,7 +4,7 @@
 >
 > **Team name:** Tiger Software®
 >
-> **Github project link:** Github project link goes here
+> **Github project link:** https://github.com/RoseGoldJaguar/git-one.git
 >
 > **User-Centric Computing II**
 >
@@ -29,9 +29,7 @@
 
 **Project Description**
 
-Put the description of your project here - 1 paragraph will suffice.
-
-Do mention who your target users are.
+This website provides educational advice and tips on health and wellness to those aged 50-65, although anyone older can reap the site's benefits. It advertises free events (online and in-person) to those who view it in addition to helpful information.  It aims to improve the physical and mental health of those who visit it.  The easy-to-find menus and links feature ideas and concepts for physical and psychological wellness and lifestyles.  These features provide an overall positive experience for users.
 
 **Possible benefits of the project**
 
@@ -40,13 +38,11 @@ intended user base.
 
 **Current/similar Solutions**
 
-List of similar sites.
+[List of similar sites.
 
-1.  If none exists, you need to mention that your site is the first of
-    its kind.
-
-2.  If any exists, then mention how your site would be different from
-    those so that people know you are merely re-inventing the wheel.
+1. https://www.ncoa.org/research/
+2. https://www.ncoa.org/research/
+3. https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging)
 
 **Estimated duration of the project**
 
