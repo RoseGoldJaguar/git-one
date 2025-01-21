@@ -47,6 +47,9 @@ List of similar sites.
 
 1. https://www.ncoa.org/research/
 2. https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging)
+3. https://hr.ucsf.edu/wellbeing/coping-and-resiliency-program/cope-program-wellness-resources/maintaining-wellness-older-adults-and-caregivers
+
+
 Compared to the website above our website will offer a more user-friendly and event-focused approach, targeting adults aged 50-65 with practical health advice and easy navigation.
 
 **Estimated duration of the project**
