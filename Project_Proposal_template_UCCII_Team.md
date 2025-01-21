@@ -20,7 +20,7 @@
   -------- ------------------------- ----------------------- -----------------
   1         Yeni Almanza              https://trello.com/u/yenialmanza2  https://github.com/almanzayeni                                 
 
-  2         Kathyrn Douglas                                                 
+  2         Kathyrn Douglas           https://trello.com/u/kd00286       https://github.com/RoseGoldJaguar                                    
 
   3                                                          
 
