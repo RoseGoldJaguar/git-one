@@ -1,6 +1,6 @@
 > **Project Information**
 >
-> Your project name here
+> Project Proposal
 >
 > **Team name:** Tiger Software®
 >
