@@ -50,7 +50,7 @@ List of similar sites.
 3. https://hr.ucsf.edu/wellbeing/coping-and-resiliency-program/cope-program-wellness-resources/maintaining-wellness-older-adults-and-caregivers
 
 
-Compared to the website above our website will offer a more user-friendly and event-focused approach, targeting adults aged 50-65 with practical health advice and easy navigation.
+Compared to the website above our website will offer a more user-friendly and event-focused approach, providing its visitors with practical health advice and easy navigation.
 
 **Estimated duration of the project**
 It may take anywhere between 1-3 months, including planning, designing, creating content, and testing the site.
