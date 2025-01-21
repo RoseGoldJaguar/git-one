@@ -2,7 +2,7 @@
 >
 > Your project name here
 >
-> **Team name:** Your team\'s name goes here.
+> **Team name:** Tiger Software®
 >
 > **Github project link:** Github project link goes here
 >
@@ -10,7 +10,7 @@
 >
 > **Project Iteration 1, Activity 1**
 >
-> **Put the date of creation of the document here**
+> **January 20, 2025**
 >
 > **Member information**
 
@@ -18,9 +18,9 @@
   **\#**   **Name**                  **Trello profile link** **Github profile
                                                              link**
   -------- ------------------------- ----------------------- -----------------
-  1                                                          
+  1         Yeni Almanza              https://trello.com/u/yenialmanza2  https://github.com/almanzayeni                                 
 
-  2                                                          
+  2         Kathyrn Douglas                                                 
 
   3                                                          
 
