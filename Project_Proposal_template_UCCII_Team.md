@@ -33,16 +33,21 @@ This website provides educational advice and tips on health and wellness to thos
 
 **Possible benefits of the project**
 
-List the benefits that you foresee the project will bring to the
-intended user base.
+1. Free online programs and classes
+2. In-person programs and classes (optional)
+3. Informational pages and standalone tips for temporary users
+4. Stress relief community activities
+5. Leisure activities online and in-person
+6. Users can request welfare checkups
+
 
 **Current/similar Solutions**
 
 List of similar sites.
 
 1. https://www.ncoa.org/research/
-2. https://www.ncoa.org/research/
-3. https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging)
+2. https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging)
+Compared to the website above our website will offer a more user-friendly and event-focused approach, targeting adults aged 50-65 with practical health advice and easy navigation.
 
 **Estimated duration of the project**
 It may take anywhere between 1-3 months, including planning, designing, creating content, and testing the site.
