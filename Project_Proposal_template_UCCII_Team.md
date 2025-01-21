@@ -10,7 +10,7 @@
 >
 > **Project Iteration 1, Activity 1**
 >
-> **January 20, 2025**
+> **January 21, 2025**
 >
 > **Member information**
 
@@ -38,22 +38,14 @@ intended user base.
 
 **Current/similar Solutions**
 
-[List of similar sites.
+List of similar sites.
 
 1. https://www.ncoa.org/research/
 2. https://www.ncoa.org/research/
 3. https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging)
 
 **Estimated duration of the project**
-
-This can be an educated guess and does not have to coincide with the
-semester.
-
-In real life, however, you will have to make a pretty accurate
-estimation based on different techniques available in project
-management.
+It may take anywhere between 1-3 months, including planning, designing, creating content, and testing the site.
 
 **UI/UX and User-Centric aspects of the project**
-
-List the things you will do to make the site user-centric and UX
-compliant.
+It also provides easy-to-reach contact information, technical support, and a helpline at the bottom of the page.  In addition, accessibility features are shown near the top and bottom for those needing it.  Its graphical user interface includes standard website color coding and larger text size for findability and readability.  A second attribute the GUI uses is photographic and abstract visuals that match the tone of the website’s purpose.  The site will aim to review feedback to satisfy its visitors.
